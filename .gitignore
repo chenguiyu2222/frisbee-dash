@@ -1,1 +1,4 @@
-web: gunicorn app:server
+venv
+*.pyc
+.DS_Store
+.env
